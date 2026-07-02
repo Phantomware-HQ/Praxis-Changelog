@@ -6,7 +6,7 @@ Made With ❤️ by **codeX** Studio
 > **3D Artist:** Baddeaw  
 > **Version:** Alpha v8.6  
 > **Engine:** Roblox Engine  
-> **Live Open Alpha:** [Not Available Now](#)  
+> **Play Live Open Alpha:** [Not Available Now](#)  
 > **Full Changelog:** [https://github.com/codeX-Studio-HQ/Praxis-Changelog/blob/main/CHANGELOG.md](https://github.com/codeX-Studio-HQ/Praxis-Changelog/blob/main/CHANGELOG.md)
 
 ---
