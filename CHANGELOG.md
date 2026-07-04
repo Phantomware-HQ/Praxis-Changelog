@@ -1,3 +1,15 @@
+# Praxis - (Alpha v8.7) – July 4, 2026
+
+## ✨ New Features
+
+- **Balloon Mod**
+  - Added a new balloon attachment system. Players can now select any physics-enabled object and press 'B' to attach a balloon, allowing for creative floating builds with smooth, controlled ascent.
+
+- **Fly Toggle**
+  - Introduced a standalone flight mode. Players can toggle flight on and off at any time using the 'V' key, independent of equipped tools, for easier navigation and building.
+
+---
+
 # Praxis - (Alpha v8.6) – July 2, 2026
 
 ## 🔧 Improvements
