@@ -1,3 +1,26 @@
+# Praxis - Patch Notes (Alpha v8.8) - 6 July, 2026
+
+## ✨ New Features
+
+- **Elastic Mode** added.  
+  - Introduces flexible/stretchy physics constraints for tools and objects.
+
+- **Ragdoll System** implemented.  
+  - Characters and entities now react dynamically to physics and impacts with realistic ragdoll physics. Pressing **[G]** toggles ragdoll mode on and off.
+
+## 🔧 Improvements
+
+- **Rope Mechanism** upgraded.  
+  - Converted from static beams to full physical constraints for realistic rope physics and behavior.
+
+- **Save & Load System** optimized.  
+  - Slightly improved and made compatible with Elastic Mode.
+
+- **Camera Optimization** applied.  
+  - The camera logic has been enhanced; while the game is normally locked to a first-person (FPS) view, the camera dynamically switches to a third-person (TPS) perspective whenever the character enters a ragdoll state.
+
+---
+
 # Praxis - (Alpha v8.7) – July 4, 2026
 
 ## ✨ New Features
