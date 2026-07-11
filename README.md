@@ -7,7 +7,7 @@ Made With ❤️ by **codeX** Studio
 > **Version:** Alpha v8.9  
 > **Engine:** Roblox Engine  
 > **Play Open Alpha:** [Currently Unavailable](#)  
-> **Full Changelog:** [https://github.com/codeX-Studio-HQ/Praxis-Changelog/blob/main/CHANGELOG.md](https://github.com/codeX-Studio-HQ/Praxis-Changelog/blob/main/CHANGELOG.md)
+> **Full Changelog:** [CHANGELOG.md](https://github.com/codeX-Studio-HQ/Praxis-Changelog/blob/main/CHANGELOG.md)
 
 ---
 
