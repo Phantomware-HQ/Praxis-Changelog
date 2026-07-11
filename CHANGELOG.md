@@ -1,3 +1,12 @@
+# Praxis - Patch Notes (Alpha v8.9) - 11 July, 2026
+
+## ✨ New Features
+
+- **Player Ragdoll Interaction** added.  
+  - Players can now use the Axis Weapon to grab and pick up other players while they are in a ragdoll state. Grabbing is strictly allowed only when the target player is actively ragdolled.
+
+---
+
 # Praxis - Patch Notes (Alpha v8.8) - 6 July, 2026
 
 ## ✨ New Features
