@@ -1,10 +1,10 @@
 <img src="art/Praxis.png" width="400" alt="PraxisLogo">
 
-# Praxis (Alpha v8.8)
+# Praxis (Alpha v8.9)
 Made With ❤️ by **codeX** Studio
 > **Developer:** Wrenchiz  
 > **3D Artist:** Baddeaw  
-> **Version:** Alpha v8.8  
+> **Version:** Alpha v8.9  
 > **Engine:** Roblox Engine  
 > **Play Open Alpha:** [Currently Unavailable](#)  
 > **Full Changelog:** [https://github.com/codeX-Studio-HQ/Praxis-Changelog/blob/main/CHANGELOG.md](https://github.com/codeX-Studio-HQ/Praxis-Changelog/blob/main/CHANGELOG.md)
