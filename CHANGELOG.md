@@ -1,3 +1,16 @@
+# Praxis - Patch Notes (Alpha v9.1) - 12 July, 2026
+
+## ✨ New Features
+
+- **Map Voting System** implemented.  
+  - When a player selects a map via the Map GUI, a prompt is sent to all active players asking if they agree to change the map (e.g., "Change map to Castle?"). The server tallies the votes, and the map changes only if the majority votes "Yes". If "No" wins, the current map stays loaded.
+
+## 🐛 Bug Fixes
+
+- **Forced Map Transition Resolved:** Fixed the issue where a single player could force a map change for everyone in multiplayer. Map transitions are now democratically controlled by the new voting system.
+
+---
+
 # Praxis - Patch Notes (Alpha v9.0) - 12 July, 2026
 
 ## ✨ New Features
