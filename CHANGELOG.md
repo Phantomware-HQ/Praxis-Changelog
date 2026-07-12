@@ -1,3 +1,24 @@
+# Praxis - Patch Notes (Alpha v9.0) - 12 July, 2026
+
+## ✨ New Features
+
+- **Map Selector GUI** added.  
+  - Players can now switch between different maps (Baseplate and Castle) via the in-game Map GUI. Loading a map automatically unloads and deletes the previous map from memory.
+
+- **Volumetric Clouds** added.  
+  - Atmospheric depth and visuals have been enhanced with dynamic volumetric cloud rendering.
+
+## 🔧 Improvements
+
+- **Graphics & Lighting** upgraded.  
+  - Overall environmental visuals and lighting quality have been significantly improved.
+
+## ⚠️ Known Issues
+
+- **Forced Map Transition in Multiplayer:** When playing in multiplayer sessions, if any player changes the map, all players are automatically transferred to the selected map.
+
+---
+
 # Praxis - Patch Notes (Alpha v8.9) - 11 July, 2026
 
 ## ✨ New Features
