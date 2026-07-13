@@ -1,3 +1,11 @@
+# Praxis - Patch Notes (Alpha v9.2) - 13 July, 2026
+
+## 🐛 Bug Fixes
+
+- **Singleplayer Map Vote Bypass:** Fixed an issue where singleplayer sessions triggered unnecessary map voting prompts. Players in singleplayer can now switch maps directly without initiating a vote.
+
+---
+
 # Praxis - Patch Notes (Alpha v9.1) - 12 July, 2026
 
 ## ✨ New Features
