@@ -1,3 +1,12 @@
+# Praxis - Patch Notes (Alpha v9.3) - 14 July, 2026
+
+## 🔧 Improvements
+
+- **Rotation Mode Toggle Keybind** 
+  - Switch between Free Rotation and Fixed Rotation modes directly by pressing **[Q]** instead of using the Mode GUI button for faster.
+
+---
+
 # Praxis - Patch Notes (Alpha v9.2) - 13 July, 2026
 
 ## 🐛 Bug Fixes
