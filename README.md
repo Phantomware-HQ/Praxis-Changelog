@@ -19,9 +19,4 @@ Made With ❤️ by **Phantomware**
 
 ---
 
-## ⚖️ License
-
-This project is licensed under the **CC BY-NC-ND 4.0** License. 
-See the [LICENSE](https://github.com/codeX-Studio-HQ/Praxis/tree/main?tab=License-1-ov-file) file for the full legal text.
-
 © 2026 Phantomware
