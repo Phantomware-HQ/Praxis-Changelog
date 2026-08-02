@@ -1,7 +1,7 @@
 <img src="art/Praxis.png" width="400" alt="PraxisLogo">
 
 # Praxis (Alpha v9.3)
-Made With ❤️ by **codeX** Studio
+Made With ❤️ by **Phantomware**
 > **Developer:** Wrenchiz  
 > **3D Artist:** Baddeaw  
 > **Version:** Alpha v9.3  
@@ -13,10 +13,9 @@ Made With ❤️ by **codeX** Studio
 
 ![codeX Logo](./art/favicon.ico)
 
-# codeX Studio Official Site
-Made With ❤️ by **codeX** Studio
+# Phantomware Official Website
 
-> **Official Site:** [https://codex-studio-hq.netlify.app/](https://codex-studio-hq.netlify.app/)
+> **Official Website:** [https://codex-studio-hq.netlify.app/](https://codex-studio-hq.netlify.app/)
 
 ---
 
@@ -25,4 +24,4 @@ Made With ❤️ by **codeX** Studio
 This project is licensed under the **CC BY-NC-ND 4.0** License. 
 See the [LICENSE](https://github.com/codeX-Studio-HQ/Praxis/tree/main?tab=License-1-ov-file) file for the full legal text.
 
-© 2026 codeX Studio
+© 2026 Phantomware
