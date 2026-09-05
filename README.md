@@ -7,7 +7,7 @@ Made With ❤️ by **Phantomware**
 > **Version:** Alpha v9.3  
 > **Engine:** Roblox Engine  
 > **Play Open Alpha:** [Currently Unavailable](#)  
-> **Full Changelog:** [CHANGELOG.md](https://github.com/Phantomware-HQ/Praxis-Changelog/releases))
+> **Full Changelog:** [CHANGELOG](https://github.com/Phantomware-HQ/Praxis-Changelog/releases))
 
 ---
 
