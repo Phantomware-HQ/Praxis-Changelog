@@ -19,4 +19,9 @@ Made With ❤️ by **Phantomware**
 
 ---
 
-© 2026 Phantomware
+## ⚖️ License
+
+This project is protected by copyright law.  
+Click [**HERE**](LICENSE.md) to view the full license terms.
+
+© 2026 **Phantomware**. All rights reserved.
