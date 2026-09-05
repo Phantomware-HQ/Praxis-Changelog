@@ -1,10 +1,10 @@
 <img src="art/Praxis.png" width="400" alt="PraxisLogo">
 
-# Praxis (Alpha v9.3)
+# Praxis (v0.9.3-alpha)
 Made With ❤️ by **Phantomware**
 > **Developer:** Wrenchiz  
 > **3D Artist:** Baddeaw  
-> **Version:** Alpha v9.3  
+> **Version:** v0.9.3-alpha  
 > **Engine:** Roblox Engine  
 > **Play Open Alpha:** [Currently Unavailable](#)  
 > **Full Changelog:** [CHANGELOG](https://github.com/Phantomware-HQ/Praxis-Changelog/releases)
